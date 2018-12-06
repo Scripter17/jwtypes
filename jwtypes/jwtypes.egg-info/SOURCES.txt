@@ -1,0 +1,6 @@
+README.md
+setup.py
+jwtypes.egg-info/PKG-INFO
+jwtypes.egg-info/SOURCES.txt
+jwtypes.egg-info/dependency_links.txt
+jwtypes.egg-info/top_level.txt
